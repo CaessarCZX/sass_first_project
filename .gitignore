@@ -1,4 +1,5 @@
 # for sass
+/sass
 .sass-cache/
 *.css.map
 *.sass.map
